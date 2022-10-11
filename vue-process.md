@@ -25,6 +25,7 @@
 4. vue add element --(按需)
 5. npm install less less-loader --save
 6. npm i element-ui
+7. 数据库中添加ego.sql文件
 
 
 
