@@ -17,7 +17,7 @@
   Vue + Vue-router + Vuex + Element-ui + Axios + Echarts + 其它三方库
 
 
-
+###VueSoftware没用，多传的
 ### 项目搭建
 1. vue create vue_admin
 2. vue-router vuex
